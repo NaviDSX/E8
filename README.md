@@ -12,7 +12,7 @@ In this [repo](https://github.com/bentrevett/pytorch-seq2seq) refactor the 2 and
 ## * Refactored Notebooks and Links / Comments:
 Sl. |   Refactored Code -  Filename                                                                     |  Colab Link   | Comment
 --- | ------------------------------------------------------------------------------------------------- | ------------- | -------------------
-1   | ~~Sequence to Sequence Learning with Neural Networks~~                                            | NA |  In Class
+1   | [Sequence to Sequence Learning with Neural Networks](https://github.com/NaviDSX/E8/blob/main/1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NaviDSX/E8/blob/main/1.ipynb) | In-Class
 2   | [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://github.com/NaviDSX/E8/blob/main/2.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NaviDSX/E8/blob/main/2.ipynb) | Completed
 3   | [Neural Machine Translation by Jointly Learning to Align and Translate](https://github.com/NaviDSX/E8/blob/main/3.ipynb)                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NaviDSX/E8/blob/main/3.ipynb) | Completed
 4   | [Packed Padded Sequences, Masking, Inference and BLEU](https://github.com/NaviDSX/E8/blob/main/4.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NaviDSX/E8/blob/main/4.ipynb)  | WIP 
